@@ -36,8 +36,10 @@ The following is expanded upon further down:
 ### Normal Rolls
 As a GM and/or Player, you should expect to hit low target numbers more often and higher ones less often. 
 - Specifically, the break point is 12. 2d10 is just as likely to roll a natural 12 or higher as a 1d20 is.
-- If the number you need from the dice is less than a natural 12, you'll be more likely to succeed (up to 15% higher, at 7, which comes out to 21.4% more likely by comparison)
-- If the number you need from the dice is more than a natural 12, you'll be less likely to succeed (up to 10% lower, at 17, which comes out to 50% less likely by comparison)
+- If the number you need from the dice is less than a natural 12, you'll be more likely to succeed
+  - Up to 15% higher, at 7, which comes out to 21.4% more likely by comparison
+- If the number you need from the dice is more than a natural 12, you'll be less likely to succeed
+  - Up to 10% lower, at 17, which comes out to 50% less likely by comparison
 
 Shown: Probability of rolling a given number or higher. 1d20 vs 2d10
 <img width="1671" height="406" alt="10v20 roll at least" src="https://github.com/user-attachments/assets/08f3c3f2-e5fa-4bd5-96b1-3113fc625ea1" />
