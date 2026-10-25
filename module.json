@@ -1,0 +1,30 @@
+{
+  "id": "2d10-core-roles-5e",
+  "title": "2d10 Core Roles, 5e",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>A simple module that changes all initiative, ability checks, skills, saving throws, and attack rolls to be 2d10 instead of 1d20. Requires the lib-wrapper module. Works best with Midi-QoL.</p>",
+  "flags": {
+    "canUpload": true
+  },
+  "socket":true,
+  "esmodules": ["scripts/twoTenRolls.js"],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": { "minimum": "4.0.0" }
+      }
+    ],
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      }
+    ]
+  }
+}
