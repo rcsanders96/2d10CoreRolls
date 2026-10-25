@@ -14,9 +14,9 @@ All 1d20 rolls in the game are replaced with a sum of 2d10.
 ## Statistics
 
 ### Summary
-The purpose of the 2d10 system is to keep the numbers of 1d20, but skew the results a little more towards a predictable average while still allowing for a good amount of chaos (as opposed to something highly predictable, like a 3d6 system.)
+The purpose of the 2d10 system is to keep the numbers of 1d20, but skew the results a little more towards a predictable average while still allowing for a good amount of chaos (as opposed to something highly predictable, like a 3d6 system).
 
-The following is expanded upon further down.
+The following is expanded upon further down:
 - The chance of rolling a natural 12 or higher using 2d10 is exactly the same as 1d20
   - If the number you need to roll is less than a natural 12, you're more likely to get it on a 2d10
   - If it's higher than 12, you're less likely to get it on a 2d10.
