@@ -5,7 +5,8 @@ A simple module that changes all initiative, ability checks, skills, saving thro
 ## Mechanics
 All 1d20 rolls in the game are replaced with a sum of 2d10.
 - You can still manually roll 1d20's by using "/roll 1d20" in chat or by using something like the dice tray module. However, rolls handled by the 5e system (like those triggered by clicking on your character sheet) are intercepted and changed into 2d10 rolls.
-- Advantage is handled by rolling 3d10 and taking the highest 2. Disadvantage, conversely, is handled by taking the lowest 2.
+- Advantage is handled by rolling 3d10 and taking the highest 2.
+- Disadvantage, conversely, is handled by rolling 3d10 and taking the lowest 2.
 - A critical hit is a natural roll of 20, 19, or 18.
 - A critical failure is a natural roll of 2, 3, or 4.
 - Decreased critical thresholds (like with the champion fighter) function as normal: the number required is decreased by 1. So, a champion fighter should crit on a natural roll of 17 - 20, for example.
