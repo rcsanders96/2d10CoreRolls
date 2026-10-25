@@ -11,5 +11,6 @@ All 1d20 rolls in the game are replaced with a sum of 2d10.
 - Decreased critical thresholds (like with the champion fighter) function as normal: the number required is decreased by 1. So, a champion fighter should crit on a natural roll of 17 - 20, for example.
 
 ### Statistics
-The purpose of the 2d10 system is to keep the numbers of 1d20, but skew results a little more towards a predictable average while still allowing for a good amount of chaos (as opposed to something highly predictable, like a 3d6 system.)
-<img width="1668" height="400" alt="10v20v6 raw" src="https://github.com/user-attachments/assets/1ef99bcd-7e20-4582-bdeb-9d6775dd9410" />
+The purpose of the 2d10 system is to keep the numbers of 1d20, but skew the results a little more towards a predictable average while still allowing for a good amount of chaos (as opposed to something highly predictable, like a 3d6 system.)
+<img width="1668" height="402" alt="10v20v6 raw" src="https://github.com/user-attachments/assets/1361e0c5-db49-4fa2-8c31-9d2010b41e6e" />
+
