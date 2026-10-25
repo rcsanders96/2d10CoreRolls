@@ -23,10 +23,9 @@ Shown: Probability of rolling any given number. 1d20 vs 2d10 vs 3d6
 
 The following is expanded upon further down:
 - Since DnD 5e is a game about rolling numbers in the context of "is my total equal to or greater than this target number?" I think it's best to compare 2d10 vs 1d20 in terms of breakpoints.
-- - The breakpoint
-- The chance of rolling a natural 12 or higher using 2d10 is exactly the same as 1d20
-  - If the number you need to roll is less than a natural 12, you're more likely to get it using a 2d10
-  - If it's higher than 12, you're less likely to get it using a 2d10.
+  - The breakpoint for standard rolls is 12. That is to say, the chance of rolling a natural 12 or higher using the 2d10 system on a standard roll is exactly the same as the 1d20 system.
+    - If the number you need to roll is less than a natural 12, you're more likely to get it using a 2d10
+    - If it's higher than 12, you're less likely to get it using a 2d10
 - Normal Critical Hit/Miss chances are only 1% off (6% on 2d10 vs 5% on 1d20)
   - Improved and Superior Critical Hit chances are identical (10% and 15%, respectively)
 - Success Chances when rolling with Advantage and Disadvantage are mostly the same
