@@ -19,7 +19,7 @@ The purpose of the 2d10 system is to keep the numbers of 1d20, but skew the resu
 The following is expanded upon further down:
 - The chance of rolling a natural 12 or higher using 2d10 is exactly the same as 1d20
   - If the number you need to roll is less than a natural 12, you're more likely to get it using a 2d10
-  - If it's higher than 12, you're less likely to get it on a 2d10.
+  - If it's higher than 12, you're less likely to get it using a 2d10.
 - Normal Critical Hit/Miss chances are only 1% off (6% on 2d10 vs 5% on 1d20)
   - Improved and Superior Critical Hit chances are identical (10% and 15%, respectively)
 - Success Chances when Rolling with Advantage and Disadvantage are mostly the same
