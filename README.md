@@ -49,7 +49,20 @@ Critical Hits and Critical failures are roughly the same, 6% vs 5% (so, 20% more
 
 
 ### Advantage and Disadvantage
+While rolling with advantage does give 2d10 a much higher chance of rolling a particularly high number, the 2 systems are actually much closer than standard rolls when contextualized in the form of rolling at "least X or higher."
+- Average Roll for 1d20 with advantage: 13.82
+- Average Roll for 2d10 with advantage: 13.48
 
+Disadvantage slightly breaks the pattern
+- Average Roll for 1d20 with disadvantage: 7.17
+- Average Roll for 2d10 with disadvantage: 8.52
+
+
+Critical Success Chances when Rolling with Advantage
+- Normal: 14.9% vs 9.75%. 5.15% more likely in total, ~52.8% more likely by comparison
+- Improved: 23.3% vs 19%. 4.3% more likely in total, ~22.6% more likely by comparison
+- Superior: 32.7% vs 27.75%. 4.95% more likely in total, ~17.8% more likely by comparison
 
 ### Compounding Effects on 5e's Balance
-Singular, big monsters (when balanced for CR) often have a high to-hit and high armor class compared to the party. This means they will hit more often and 
+Since AC and To-Hit bonuses often increase with a monster's CR in 5e, the party will find groups of weak enemies easier and singular big monsters harder.
+- A high AC will be far more effective and a low AC will be far more punishing. This may be good or bad, depending on group. In my group, it's forced the party to pay attention to the environment more often and it's forced me to make more interesting environments, as anything that can give one side a bonus to rolls will matter a lot more to them.
