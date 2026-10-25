@@ -44,9 +44,12 @@ As a GM and/or Player, you should expect to hit low target numbers more often an
 Shown: Probability of rolling a given number or higher. 1d20 vs 2d10
 <img width="1671" height="406" alt="10v20 roll at least" src="https://github.com/user-attachments/assets/08f3c3f2-e5fa-4bd5-96b1-3113fc625ea1" />
 
-
 Critical Hits and Critical failures are roughly the same, 6% vs 5% (so, 20% more likely on average).
 - Interestingly, because of how the 2d10 table works, you have ***exactly*** the same chance to roll a critical hit with Improved and Superior critical
 
 
 ### Advantage and Disadvantage
+
+
+### Compounding Effects on 5e's Balance
+Singular, big monsters (when balanced for CR) often have a high to-hit and high armor class compared to the party. This means they will hit more often and 
