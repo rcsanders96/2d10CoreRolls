@@ -22,6 +22,8 @@ Shown: Probability of rolling any given number. 1d20 vs 2d10 vs 3d6
 
 
 The following is expanded upon further down:
+- Since DnD 5e is a game about rolling numbers in the context of "is my total equal to or greater than this target number?" I think it's best to compare 2d10 vs 1d20 in terms of breakpoints.
+- - The breakpoint
 - The chance of rolling a natural 12 or higher using 2d10 is exactly the same as 1d20
   - If the number you need to roll is less than a natural 12, you're more likely to get it using a 2d10
   - If it's higher than 12, you're less likely to get it using a 2d10.
