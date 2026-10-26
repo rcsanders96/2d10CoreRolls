@@ -54,6 +54,12 @@ Critical Hits and Critical failures are roughly the same, 6% vs 5% (so, 20% more
 ### Advantage and Disadvantage
 Comparisons get a bit strange with Advantage and Disadvantage. The breakpoints of 12 mentioned above is moved to ~13.5 for ***both*** advantage and disadvantage. This means that the 2d10 system is, on average, more forgiving with low thresholds even when rolling at disadvantage, while simultaneously being less rewarding if a high number is needed even when rolling with advantage.
 
+Shown: Probability of rolling "X or higher" with advantage.
+<img width="1673" height="401" alt="10v20 adv atLeast" src="https://github.com/user-attachments/assets/ace66475-c468-45c4-993e-0ab648deef90" />
+
+
+Shown: Probability of rolling "X or higher" with disadvantage.
+<img width="1670" height="401" alt="10v20, Disadv Chart" src="https://github.com/user-attachments/assets/afdfa4d8-a82c-41ee-a56c-e50d50262240" />
 
 
 However, this is somewhat balanced out by Critical Success Chances being about 5% more likely when Rolling with Advantage, and critical failures being ~5% more likely when rolling with disadvantage. This bonus 5% persists even with improved and superior criticals.
