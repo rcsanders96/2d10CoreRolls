@@ -16,6 +16,8 @@ All 1d20 rolls in the game are replaced with a sum of 2d10.
 ### Summary
 The purpose of the 2d10 system is to keep the numbers of 1d20, but skew the results a little more towards a predictable average while still allowing for a good amount of chaos (as opposed to something highly predictable, like a 3d6 system).
 
+The purpose of this specific document is to talk about how this change affects the probability of 5e for those who find statistics as interesting as I do. None of this relates to the actual module, it's pretty plug and play.
+
 Shown: Probability of rolling any given number. 1d20 vs 2d10 vs 3d6
 <img width="1668" height="402" alt="10v20v6 raw" src="https://github.com/user-attachments/assets/1361e0c5-db49-4fa2-8c31-9d2010b41e6e" />
 
