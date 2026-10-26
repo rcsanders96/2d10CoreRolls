@@ -63,10 +63,18 @@ Shown: Probability of rolling "X or higher" with disadvantage.
 
 
 However, this is somewhat balanced out by Critical Success Chances being about 5% more likely when rolling with Advantage, and critical failures being ~5% more likely when rolling with Disadvantage. This bonus 5% persists even with improved and superior criticals.
-- Normal Critical Failure w/ Disadvantage: 14.9% vs 9.75%. 5.15% more likely in total, ~52.8% more likely by comparison
-- Normal Critical Hit w/ Advantage: 14.9% vs 9.75%. 5.15% more likely in total, ~52.8% more likely by comparison
-- Improved Crit w/ Advantage: 23.3% vs 19%. 4.3% more likely in total, ~22.6% more likely by comparison
-- Superior Crit w/ Advantage: 32.7% vs 27.75%. 4.95% more likely in total, ~17.8% more likely by comparison
+- Normal Critical Failure w/ Disadvantage:
+  - 14.9% vs 9.75%.
+  - 5.15% more likely in total, ~52.8% more likely by comparison
+- Normal Critical Hit w/ Advantage:
+  - 14.9% vs 9.75%.
+  - 5.15% more likely in total, ~52.8% more likely by comparison
+- Improved Crit w/ Advantage:
+  - 23.3% vs 19%.
+  - 4.3% more likely in total, ~22.6% more likely by comparison
+- Superior Crit w/ Advantage:
+  - 32.7% vs 27.75%.
+  - 4.95% more likely in total, ~17.8% more likely by comparison
 
 ### Compounding Effects on 5e's Balance
 Since AC and To-Hit bonuses often increase with a monster's CR in 5e, the party will find groups of weak enemies easier and singular big monsters harder.
