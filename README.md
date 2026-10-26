@@ -78,4 +78,4 @@ However, this is somewhat balanced out by Critical Success Chances being about 5
 
 ### Compounding Effects on 5e's Balance
 Since AC and To-Hit bonuses often increase with a monster's CR in 5e, the party will find groups of weak enemies easier and singular big monsters harder.
-- A high AC will be far more effective and a low AC will be far more punishing. This may be good or bad, depending on group. In my group, it's forced the party to pay attention to the environment more often and it's forced me to make more interesting environments, as anything that can give one side a bonus to rolls will matter a lot more to them.
+- A high AC will be far more effective and a low AC will be far more punishing. This may be good or bad, depending on group.
