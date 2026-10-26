@@ -30,7 +30,7 @@ The following is expanded upon further down:
     - If it's higher than 12, you're less likely to get it using a 2d10
 - Normal Critical Hit/Miss chances are only 1% off (6% on 2d10 vs 5% on 1d20)
   - Improved and Superior Critical Hit chances are identical (10% and 15%, respectively)
-- Success Chances when rolling with Advantage and Disadvantage are mostly the same
+- Advantage and Disadvantage are helpful, but the break point remains: only moving from 12 to 12.5 
   - However, you are ~5% more likely to Critically Succeed when rolling with advantage (when compared to 1d20) and 5% more likely to Critically Fail when rolling with disadvantage.
 
 
