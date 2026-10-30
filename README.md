@@ -64,7 +64,7 @@ Shown: Probability of rolling "X or higher" with disadvantage.
 <img width="1670" height="401" alt="10v20, Disadv Chart" src="https://github.com/user-attachments/assets/afdfa4d8-a82c-41ee-a56c-e50d50262240" />
 
 
-However, this is somewhat balanced out by Critical Success Chances being about 5% more likely when rolling with Advantage, and critical failures being ~5% more likely when rolling with Disadvantage. This bonus 5% persists even with improved and superior criticals.
+Crits also change under this system, with Critical Success Chances being about 5% more likely when rolling with Advantage, and critical failures being ~5% more likely when rolling with Disadvantage. This bonus 5% persists even with improved and superior criticals.
 - Normal Critical Failure w/ Disadvantage:
   - 14.9% vs 9.75%.
   - 5.15% more likely in total, ~52.8% more likely by comparison
