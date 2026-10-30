@@ -52,7 +52,7 @@ Critical Hits and Critical failures are roughly the same, 6% vs 5% (so, 20% more
 
 
 ### Advantage and Disadvantage
-Comparisons get a bit strange with Advantage and Disadvantage. The breakpoints of 12 mentioned above is moved to ~12.5 for ***both*** advantage and disadvantage. This means that the 2d10 system is, on average, more forgiving with low thresholds even when rolling at disadvantage. At the same time, it's slightly less rewarding if a high number is needed even when rolling with advantage.
+While the breakpoint moves from 12 to 12.5 for both advantage and disadvantage, the general comparison remains the same. If the roll needed to succeed is 12 or less, the 2d10 system offers a higher chance of success compared to the d20 system, even when both are rolling at disadvantage. If the roll needed to succeed is 13 or more, the 2d10 system offers a slightly lower chance to succeed even when both are rolling at advantage.
 
 Shown: Probability of rolling "X or higher" with advantage.
 <img width="1673" height="401" alt="10v20 adv atLeast" src="https://github.com/user-attachments/assets/ace66475-c468-45c4-993e-0ab648deef90" />
